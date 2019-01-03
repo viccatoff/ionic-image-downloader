@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "imgDownloader",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

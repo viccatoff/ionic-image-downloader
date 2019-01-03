@@ -1,0 +1,9 @@
+{
+  "name": "imgDownloader",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "59b5ef7e"
+}
